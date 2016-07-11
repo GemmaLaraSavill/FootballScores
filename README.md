@@ -2,7 +2,7 @@
 
 An app that tracks the results of current and future football (soccer) matches using http://api.football-data.org/index API.
 It shows the matches of UK's Premier League and La Liga from Spain.
-Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/nanodegree) at [Udacity](https://www.udacity.com/nanodegree).
+Developed as part of my [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) at [Udacity](https://www.udacity.com/nanodegree).
 Was given the starter code to debug and improve.
 Now includes widgets: a simple one and a collection widget
 
